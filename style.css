@@ -1,0 +1,102 @@
+h1 {
+  color: rgb(246, 132, 19);
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  border: 7px solid rgb(246, 132, 19);
+  border-radius: 300px;
+  background-color: rgb(87, 83, 89);
+  width: 80%;
+  padding: 2px 2px;
+}
+
+span {
+  color: rgb(16, 238, 53);
+}
+
+span1 {
+  color: rgb(0, 123, 255);
+}
+
+span2 {
+  color: gold;
+}
+
+span3 {
+  color: rgb(18, 195, 18);
+}
+
+span4 {
+  color: lightskyblue;
+}
+
+span5 {
+  color: red;
+}
+
+span6 {
+  color: rgb(16, 238, 53)
+}
+
+span7 {
+  color: white;
+}
+
+span8 {
+  color: rgb(246, 132, 19);
+}
+
+span9 {
+  color: lightskyblue;
+}
+
+h2 {
+  padding: 2px 2px;
+  border: 6px solid white;
+  border-radius: 7000px;
+  width: 50%;
+  margin: auto;
+  background-color: rgba(18, 165, 242, 1);
+}
+
+input {
+  margin-left: 35px;
+  width: 1%;
+}
+
+h3 {
+  color: rgba(36, 143, 25, 1);
+  padding-top: 2px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+textarea {
+  display: block;
+  border: 2px solid black;
+  border-radius: 6px;
+  outline: none;
+  width: 80%;
+  margin: 11px auto;
+  padding: 7px;
+  font-size: 16px;
+
+}
+
+.btn {
+  color: white;
+  padding: 8px 12px;
+  background:#118CEA;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 14px;
+  cursor: pointer;
+  position: relative;
+  left: 130px;
+
+}
+py-repl{
+  height:70%;
+}
